@@ -1,0 +1,27 @@
+div{
+  padding: 15px;
+}
+#header {
+  background-color: #d9269d;
+  text-align: justify;
+}
+
+#footer {
+  background-color: #1a8cff;
+  text-align: center;
+  clear: both;
+}
+
+#navigationStyle {
+  background-color: #4dffb8;
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+#mainArea {
+  background-color: #ffdb4d;
+  float: right;
+  width: 50%;
+  box-sizing: border-box;
+}
