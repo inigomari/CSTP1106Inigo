@@ -1,0 +1,17 @@
+#VPGTable{
+  width: 10px;
+  border: 1px;
+  padding: 5px;
+  margin: auto;
+  border: 5px;
+  border-style: groove;
+}
+#table1Style {
+  float: left;
+
+}
+
+#table2Style{
+  float: left;
+
+}

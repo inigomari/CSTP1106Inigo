@@ -1,0 +1,31 @@
+.VPGH3{
+  background-color: #ff6347;
+  border: 5px;
+  border-style: groove;
+  border-color: black;
+}
+.VPGH32{
+  background-color: lime;
+  border: 5px;
+  border-style: groove;
+  border-color: black;
+}
+.VPGTable{
+  width: 10px;
+  border: 1px;
+
+  margin: auto;
+}
+.dataBorder{
+  border: 2px;
+  border-style: solid;
+}
+table{
+  border: 2px;
+  border-style: solid;
+  border-collapse: collapse;
+}
+#whole{
+  border: 2px;
+  border-style: solid;
+}
