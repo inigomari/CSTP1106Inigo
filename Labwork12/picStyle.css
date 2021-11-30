@@ -1,0 +1,10 @@
+.smallerPicture > img {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+.enlargeImg > img {
+  width: 800px;
+  height: 600px;
+}
